@@ -9,14 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://deol-satish.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-deol--satish.github.io-0d1117?style=for-the-badge&labelColor=1a73e8" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/deol-satish"><img src="https://img.shields.io/badge/LinkedIn-Deol_Satish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:deol.satish@outlook.com"><img src="https://img.shields.io/badge/Email-deol.satish@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing"><img src="https://img.shields.io/badge/📄_Resume-View-34A853?style=for-the-badge" alt="Resume" /></a>
+  <a href="https://deol-satish.github.io" title="Portfolio"><img src="https://cdn.simpleicons.org/globe/1a73e8" width="28" height="28" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/deol-satish" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:deol.satish@outlook.com" title="Email"><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="28" height="28" alt="Resume" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deol-satish&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=deol-satish&style=flat&color=8b949e&label=profile+views" alt="Profile Views" />
 </p>
 
 ---
@@ -95,29 +98,6 @@ fun_fact: I debug code and play chess — both require thinking 5 moves ahead �
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/deol-satish">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9&ring_color=1a73e8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deol-satish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/deol-satish">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deol-satish&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/deol-satish">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deol-satish&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&area_color=1a73e8&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🏢 Experience
 
 | Period | Role | Organisation |
@@ -171,10 +151,15 @@ fun_fact: I debug code and play chess — both require thinking 5 moves ahead �
 <p align="center">
   <b>💬 Let's connect and build something amazing together!</b>
   <br/><br/>
-  <a href="https://linkedin.com/in/deol-satish"><img src="https://img.shields.io/badge/-Deol_Satish-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deol.satish@outlook.com"><img src="https://img.shields.io/badge/-deol.satish@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/deol-satish"><img src="https://img.shields.io/badge/-deol--satish-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://deol-satish.github.io"><img src="https://img.shields.io/badge/-Portfolio-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://deol-satish.github.io" title="Portfolio"><img src="https://cdn.simpleicons.org/globe/1a73e8" width="24" height="24" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/deol-satish" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:deol.satish@outlook.com" title="Email"><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="24" height="24" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/deol-satish" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="24" height="24" alt="Resume" /></a>
 </p>
 
 <p align="center">
