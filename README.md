@@ -1,76 +1,81 @@
-# Deol Satish
-**Software Engineer | Azure Cloud | AI / LLM Systems | Full-Stack Developer**
+# 👨‍💻 Satish Deol
+**Software Engineer | ☁️ Azure Cloud | 🤖 AI / LLM Systems | 🌐 Full-Stack Developer**
 
 Software engineer focused on **enterprise ERP systems, cloud platforms, and AI-driven production workflows**.  
-Experienced building **full-stack applications and distributed services on Azure**, integrating **LLMs and AI automation into real-world systems**.
+Experienced building **scalable full-stack applications on Azure**, integrating **LLMs and AI automation into real-world enterprise systems**.
 
-Primary interests:
-- Enterprise software engineering
-- Azure cloud & AKS infrastructure
-- AI / LLM production systems
-- Distributed backend architecture
-- Cybersecurity
+### 🚀 Core Interests
+- 🏢 Enterprise software engineering  
+- ☁️ Azure cloud & AKS infrastructure  
+- 🤖 AI / LLM production systems  
+- ⚙️ Distributed backend architecture  
+- 🔐 Cybersecurity  
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
 
-**Languages**  
+### 💻 Languages
 C • C# • Python • Java • JavaScript • TypeScript • Bash
 
-**Cloud & Infrastructure**  
+### ☁️ Cloud & Infrastructure
 Azure • Azure Kubernetes Service (AKS) • Docker • Distributed Systems
 
-**Backend**  
+### ⚙️ Backend
 .NET • Node.js • Spring Boot • REST APIs • Microservices
 
-**Frontend**  
-Angular • React • HTML / CSS
+### 🎨 Frontend
+Angular • React • HTML • CSS
 
-**AI / ML**  
+### 🤖 AI / ML
 Large Language Models • PyTorch • TensorFlow • HuggingFace • OpenCV • Reinforcement Learning
 
-**Systems**  
+### 🖥 Systems
 Linux • Networking (TCP/IP) • Kernel Programming • Security Hardening
 
 ---
 
-## Professional Work
+# 💼 Professional Work
 
-### Software Developer — IT Magnet
-Working on **enterprise ERP platforms and cloud systems**.
+### 🏢 Software Developer — IT Magnet
+
+Building **enterprise ERP platforms and cloud systems**.
 
 Key areas:
-- Backend and API development for enterprise platforms
-- Azure cloud integrations and distributed services
-- LLM-powered workflow automation and validation systems
-- IoT telemetry evaluation for mining asset tracking systems
 
-Technologies used:  
+- ⚙️ Backend and API development for enterprise platforms  
+- ☁️ Azure cloud integrations and distributed services  
+- 🤖 LLM-powered workflow automation and validation systems  
+- 📡 IoT telemetry evaluation for mining asset tracking systems  
+
+**Technologies:**  
 `.NET` • `Angular` • `Azure` • `AKS` • `REST APIs` • `LLMs`
 
 ---
 
-## Research
+# 🔬 Research
 
 Research in **machine learning for networking and distributed systems optimisation**.
 
 Highlights:
-- Reinforcement-learning based **network congestion optimisation**
-- **FreeBSD kernel implementations** for Active Queue Management
-- **AI-driven satellite spectrum allocation models**
+
+- 🤖 Reinforcement-learning based **network congestion optimisation**  
+- 🖥 **FreeBSD kernel implementations** for Active Queue Management  
+- 🛰 AI-driven **satellite spectrum allocation models**
 
 ---
 
-## Publications
+# 📚 Publications
 
-- *Active Queue Management in L4S with Asynchronous Advantage Actor-Critic* — Future Internet (2024)
-- *DDPG-MPCC: Experience Driven Multipath Congestion Control* — Future Internet (2024)
-- *RF-Sensing using Correlated Knowledge Distillation* — IEEE Sensors Journal (2023)
+📄 *Active Queue Management in L4S with Asynchronous Advantage Actor-Critic* — Future Internet (2024)
+
+📄 *DDPG-MPCC: Experience Driven Multipath Congestion Control* — Future Internet (2024)
+
+📄 *RF-Sensing using Correlated Knowledge Distillation* — IEEE Sensors Journal (2023)
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=tokyonight)
 
@@ -78,8 +83,13 @@ Highlights:
 
 ---
 
-## Connect
+# 📫 Connect
 
-GitHub: https://github.com/deol-satish  
-LinkedIn: https://linkedin.com/in/deol-satish  
-Email: deol.satish@outlook.com
+🐙 GitHub  
+https://github.com/deol-satish  
+
+💼 LinkedIn  
+https://linkedin.com/in/deol-satish  
+
+📧 Email  
+deol.satish@outlook.com
