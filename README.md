@@ -2,9 +2,6 @@
 
 ### Software Engineer • Cloud Developer • AI Systems Engineer
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Satish%20Deol&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERP%20Systems%20•%20Azure%20Cloud%20•%20AI%20Engineering&descAlignY=55&descAlign=50"/>
-</p>
 
 ---
 
