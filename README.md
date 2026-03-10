@@ -1,333 +1,85 @@
-# 🧠 Deol Satish
+# Deol Satish
+**Software Engineer | Azure Cloud | AI / LLM Systems | Full-Stack Developer**
 
-### Software Engineer • Cloud Developer • AI Systems Engineer
+Software engineer focused on **enterprise ERP systems, cloud platforms, and AI-driven production workflows**.  
+Experienced building **full-stack applications and distributed services on Azure**, integrating **LLMs and AI automation into real-world systems**.
 
-
----
-
-# 👋 About Me
-
-I am a **Software Engineer focused on enterprise platforms, cloud systems, and AI-driven applications**.
-
-My work combines:
-
-* **Full-stack engineering**
-* **ERP systems development**
-* **Azure cloud infrastructure**
-* **LLM-powered automation**
-* **AI-assisted production workflows**
-
-I currently work on **enterprise systems and ERP platforms**, building scalable applications that integrate **AI, cloud services, and distributed architectures**.
-
-My technical focus includes:
-
-⚙️ Enterprise software engineering
-☁️ Azure cloud systems (AKS, distributed services)
-🤖 LLM and AI integration in production workflows
-🔐 Cybersecurity and secure systems engineering
-
-My background also includes **research in machine learning, networking optimisation, and distributed systems**, with publications in networking and AI research. 
+Primary interests:
+- Enterprise software engineering
+- Azure cloud & AKS infrastructure
+- AI / LLM production systems
+- Distributed backend architecture
+- Cybersecurity
 
 ---
 
-# 🚀 What I Work On
+## Tech Stack
 
-### Enterprise Software Development
+**Languages**  
+C • C# • Python • Java • JavaScript • TypeScript • Bash
 
-* ERP platform engineering
-* Backend architecture for operational platforms
-* Scalable API development
-* Cloud-native enterprise systems
+**Cloud & Infrastructure**  
+Azure • Azure Kubernetes Service (AKS) • Docker • Distributed Systems
 
-### Cloud Engineering
+**Backend**  
+.NET • Node.js • Spring Boot • REST APIs • Microservices
 
-* Azure cloud architecture
-* AKS / Kubernetes deployments
-* Microservices and distributed systems
-* Infrastructure integrations
+**Frontend**  
+Angular • React • HTML / CSS
 
-### AI & LLM Systems
+**AI / ML**  
+Large Language Models • PyTorch • TensorFlow • HuggingFace • OpenCV • Reinforcement Learning
 
-* LLM-powered validation engines
-* AI workflow automation
-* NLP systems in production applications
-* AI-assisted decision support tools
-
-### Cybersecurity (Side Interest)
-
-* vulnerability analysis
-* system hardening
-* secure infrastructure design
-* network security
+**Systems**  
+Linux • Networking (TCP/IP) • Kernel Programming • Security Hardening
 
 ---
 
-# 🛠 Tech Stack
+## Professional Work
 
-## Programming
-
-```
-C | C# | Python | Java | JavaScript | TypeScript | Bash
-```
-
----
-
-## Cloud & Infrastructure
-
-```
-Azure
-Azure Kubernetes Service (AKS)
-Docker
-Microservices
-Cloud APIs
-Distributed Systems
-```
-
----
-
-## Backend Development
-
-```
-.NET
-Node.js (Express)
-Spring Boot
-REST APIs
-Enterprise API Integration
-```
-
----
-
-## Frontend Development
-
-```
-Angular
-React
-HTML / CSS
-```
-
----
-
-## AI / Machine Learning
-
-```
-Large Language Models
-PyTorch
-TensorFlow
-Scikit-Learn
-HuggingFace
-OpenCV
-Reinforcement Learning
-```
-
----
-
-## Systems Engineering
-
-```
-Linux
-Kernel Programming
-TCP/IP Networking
-Performance Optimisation
-Security Hardening
-```
-
----
-
-# 💼 Professional Work
-
-## Software Developer — IT Magnet
-
+### Software Developer — IT Magnet
 Working on **enterprise ERP platforms and cloud systems**.
 
-### Enterprise ERP Development
+Key areas:
+- Backend and API development for enterprise platforms
+- Azure cloud integrations and distributed services
+- LLM-powered workflow automation and validation systems
+- IoT telemetry evaluation for mining asset tracking systems
 
-Developing features and infrastructure for large **enterprise resource planning systems** used for operational workflows and business platforms.
-
-Key work:
-
-* Backend system development
-* enterprise workflow automation
-* API integrations between enterprise systems
-* cloud infrastructure integration
-
-Technologies used
-
-```
-.NET
-Angular
-Azure Services
-REST APIs
-Enterprise Databases
-```
+Technologies used:  
+`.NET` • `Angular` • `Azure` • `AKS` • `REST APIs` • `LLMs`
 
 ---
 
-### AI-Powered Enterprise Automation
+## Research
 
-Built and integrated **AI-driven automation systems** using LLMs.
+Research in **machine learning for networking and distributed systems optimisation**.
 
-Key capabilities:
-
-* automated validation workflows
-* AI-assisted operational decision systems
-* natural language processing pipelines
-
-Technologies
-
-```
-LLMs
-Prompt Engineering
-Python
-Backend services
-```
+Highlights:
+- Reinforcement-learning based **network congestion optimisation**
+- **FreeBSD kernel implementations** for Active Queue Management
+- **AI-driven satellite spectrum allocation models**
 
 ---
 
-### Cloud Platforms & Infrastructure
+## Publications
 
-Developing and maintaining **cloud-based enterprise platforms**.
-
-Technologies
-
-```
-Azure
-AKS
-Cloud APIs
-Distributed systems
-```
+- *Active Queue Management in L4S with Asynchronous Advantage Actor-Critic* — Future Internet (2024)
+- *DDPG-MPCC: Experience Driven Multipath Congestion Control* — Future Internet (2024)
+- *RF-Sensing using Correlated Knowledge Distillation* — IEEE Sensors Journal (2023)
 
 ---
 
-### IoT & Telemetry Systems
+## GitHub Stats
 
-Evaluated IoT devices used in **large mining asset tracking deployments**.
+![stats](https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=tokyonight)
 
-Focus areas
-
-* telemetry accuracy
-* GPS reliability
-* API integration
-* device performance benchmarking
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deol-satish&layout=compact&theme=tokyonight)
 
 ---
 
-# 🔬 Research Work
+## Connect
 
-My research work focused on **machine learning for networking systems** and **distributed infrastructure optimisation**.
-
-### Networking Optimisation with Reinforcement Learning
-
-Developed machine learning algorithms to improve network congestion control and performance.
-
-Technologies
-
-```
-FreeBSD Kernel
-C
-Reinforcement Learning
-Networking Algorithms
-```
-
-Results
-
-* sub-5ms latency at 99th percentile
-* ML-driven congestion prediction
-
----
-
-### AI-Driven Spectrum Allocation
-
-Research on **dynamic spectrum allocation for satellite networks** using reinforcement learning.
-
-Technologies
-
-```
-DQN
-A2C
-Machine Learning
-Signal Processing
-```
-
----
-
-# 📚 Publications
-
-<p align="center">
-
-<a href="https://doi.org/10.3390/fi16080265">
-<img src="https://img.shields.io/badge/Research-L4S%20AQM%20with%20A3C-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://doi.org/10.3390/fi16020037">
-<img src="https://img.shields.io/badge/Research-DDPG%20Multipath%20Congestion%20Control-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://doi.org/10.1109/jsen.2023.3320131">
-<img src="https://img.shields.io/badge/Research-RF%20Sensing%20Knowledge%20Distillation-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deol-satish&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-Add this animation by creating a GitHub action (I can show you if you want).
-
-```
-github-snake.svg
-```
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🧩 Interests
-
-* AI Systems
-* Cloud Infrastructure
-* Distributed Systems
-* Cybersecurity
-* Networking Research
-* Scientific Computing
-
-Outside tech:
-
-🚴 Cycling
-🥾 Hiking
-♟ Chess
-⚽ Soccer
-🏓 Table Tennis
-
----
-
-# 📫 Connect With Me
-
-GitHub
-[https://github.com/deol-satish](https://github.com/deol-satish)
-
-LinkedIn
-[https://linkedin.com/in/deol-satish](https://linkedin.com/in/deol-satish)
-
-Email
-[deol.satish@outlook.com](mailto:deol.satish@outlook.com)
-
----
-
-⭐ *I enjoy building systems where AI meets real-world enterprise infrastructure.*
-
----
+GitHub: https://github.com/deol-satish  
+LinkedIn: https://linkedin.com/in/deol-satish  
+Email: deol.satish@outlook.com
