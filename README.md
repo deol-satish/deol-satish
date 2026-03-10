@@ -1,167 +1,251 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Deol%20Satish&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20%7C%20Cybersecurity&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Deol%20Satish&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Cybersecurity&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+software+solutions+%F0%9F%9A%80;Published+researcher+with+Comcast+%26+Amazon+%F0%9F%93%9A;From+kernel+code+to+cloud+deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+software+solutions+%F0%9F%9A%80;Published+researcher+with+Comcast+%26+Amazon+%F0%9F%93%9A;From+kernel+code+to+cloud+deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408620eb73d6.gif" width="32" height="32" />
+  &nbsp;
+  <a href="https://deol-satish.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=1a73e8&labelColor=161b22" alt="Portfolio" />
   </a>
+  <a href="https://linkedin.com/in/deol-satish">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:deol.satish@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=flat-square&logo=googledocs&logoColor=white&labelColor=34A853" alt="Resume" />
+  </a>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408620eb73d6.gif" width="32" height="32" />
 </p>
 
 <p align="center">
-  <a href="https://deol-satish.github.io" title="Portfolio"><img src="https://cdn.simpleicons.org/globe/1a73e8" width="28" height="28" alt="Portfolio" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/deol-satish" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:deol.satish@outlook.com" title="Email"><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="28" height="28" alt="Resume" /></a>
+  <img src="https://komarev.com/ghpvc/?username=deol-satish&style=flat-square&color=1a73e8&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deol-satish&style=flat&color=8b949e&label=profile+views" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a73e8&height=2&section=header&reversal=false&render=false" width="80%" />
 </p>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<table align="center">
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist%20Light%20Skin%20Tone.png" alt="About" width="28" height="28" /> &nbsp; About Me
 
 ```yaml
-name: Deol Satish
-location: Sydney, NSW, Australia 🇦🇺
-role: Software Developer @ ITMagnet
-education: BE (Honours) Software Engineering — Deakin University (First Class Honours)
-focus: AI/ML Development • Web Engineering • Cybersecurity
-fun_fact: I debug code and play chess — both require thinking 5 moves ahead ♟️
+✦ name: Deol Satish
+✦ location: Sydney, NSW, Australia
+✦ role: Software Developer @ ITMagnet
+✦ education: BE (Honours) — Deakin University
+✦ focus: AI/ML • Web • Cybersecurity
+✦ fun: Debug + Chess = think 5 moves ahead
 ```
 
-> *Versatile Software Engineer with a strong foundation in AI/ML, full-stack web development, and cybersecurity. Published researcher with **Comcast** and **Amazon**, demonstrating innovation in optimising network performance using advanced algorithms and machine learning.*
+> *Versatile Software Engineer. Published researcher with **Comcast** & **Amazon** — optimising network performance with advanced algorithms and ML.*
 
----
+</td>
+<td width="50%">
 
-## ⚡ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Stack" width="28" height="28" /> &nbsp; Quick Stack
 
-<details open>
-<summary><b>🗣️ Languages</b></summary>
-<br/>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
-</details>
 
-<details open>
-<summary><b>🤖 AI / ML & Data</b></summary>
+**Languages:** C, C#, Python, Java, JS/TS, Bash  
+**Domains:** LLMs, ML, Security, Full‑stack, Cloud
+
+</td>
+</tr>
+</table>
+
 <br/>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Web & Frameworks</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛡️ Security & Infrastructure</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-</details>
-
----
-
-## 🏢 Experience
-
-| Period | Role | Organisation |
-|--------|------|-------------|
-| 🔵 Apr 2025 – Present | **Software Developer** | ITMagnet, Sydney |
-| 🟢 Apr 2025 – Oct 2025 | **Associate Research Fellow** | Deakin University, Melbourne |
-| 🟡 May 2024 – Apr 2025 | **Research Assistant** | Deakin University, Melbourne |
-| 🔴 Oct 2023 – Jan 2024 | **Cybersecurity Engineer** | Larsen & Toubro Technology Services, Pune |
-| 🟣 Jun 2023 – Oct 2023 | **Research Assistant** | Deakin University, Melbourne |
-
----
-
-## 📚 Publications
 
 <p align="center">
-  <i>Published research with industry leaders driving real-world impact</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff&height=1&section=header&reversal=false&render=false" width="60%" />
 </p>
 
-🔬 Research collaborations with **Comcast** and **Amazon** on optimising network performance using advanced algorithms and machine learning.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Tech" width="28" height="28" /> &nbsp; Tech Stack
 
-> Check out my publications on my [portfolio website](https://deol-satish.github.io) 📖
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" height="20" /> Languages**
 
-## 🎓 Education
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="26" height="26" />
+</p>
 
-🏛️ **Bachelor of Engineering (Honours) — Software Engineering**  
-📍 Deakin University, Melbourne (2019 – 2023)  
-🏅 **First Class Honours**
+</td>
+<td width="33%" valign="top">
 
-**Key Coursework:** Advanced Algorithms • Machine Learning • Secure Coding • Computer Networks • Data Science • Full-Stack Development • Cloud Applications • Mobile Development • Database Fundamentals
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Robot.png" width="20" height="20" /> AI / ML & Data**
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="26" height="26" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="26" height="26" />
+</p>
 
-## 🎯 Beyond the Code
+</td>
+<td width="33%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" height="20" /> Web & Infra**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="26" height="26" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
-
-♟️ Chess &nbsp;|&nbsp; 📖 Books &nbsp;|&nbsp; 🧩 LeetCode &nbsp;|&nbsp; 🔐 Cybersecurity &nbsp;|&nbsp; 🔭 Astronomy &nbsp;|&nbsp; 📐 Math & Physics
-
-🥾 Hiking &nbsp;|&nbsp; 🚴 Cycling &nbsp;|&nbsp; ⚽ Soccer &nbsp;|&nbsp; 🧘 Meditation &nbsp;|&nbsp; 🏓 Table Tennis &nbsp;|&nbsp; 🎓 Teaching & Mentoring
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff&height=1&section=header&reversal=false&render=false" width="60%" />
 </p>
 
----
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Briefcase.png" width="28" height="28" /> &nbsp; Experience
+
+<table>
+<tr>
+<th align="center">When</th>
+<th align="center">Role</th>
+<th align="center">Where</th>
+</tr>
+<tr>
+<td align="center"><code>Apr 2025 → Now</code></td>
+<td><b>Software Developer</b></td>
+<td>ITMagnet, Sydney</td>
+</tr>
+<tr>
+<td align="center"><code>Apr – Oct 2025</code></td>
+<td><b>Associate Research Fellow</b></td>
+<td>Deakin University, Melbourne</td>
+</tr>
+<tr>
+<td align="center"><code>May 2024 – Apr 2025</code></td>
+<td><b>Research Assistant</b></td>
+<td>Deakin University, Melbourne</td>
+</tr>
+<tr>
+<td align="center"><code>Oct 2023 – Jan 2024</code></td>
+<td><b>Cybersecurity Engineer</b></td>
+<td>Larsen & Toubro Technology Services, Pune</td>
+</tr>
+<tr>
+<td align="center"><code>Jun – Oct 2023</code></td>
+<td><b>Research Assistant</b></td>
+<td>Deakin University, Melbourne</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff&height=1&section=header&reversal=false&render=false" width="60%" />
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" height="28" /> &nbsp; Publications
+
+Research with **Comcast** and **Amazon** on optimising network performance using advanced algorithms and ML.
+
+→ [View on portfolio](https://deol-satish.github.io)
+
+</td>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Graduation%20Cap.png" width="28" height="28" /> &nbsp; Education
+
+**BE (Honours) — Software Engineering**  
+Deakin University, Melbourne · First Class Honours
+
+*Algorithms, ML, Secure Coding, Networks, Data Science, Full‑Stack, Cloud, Mobile*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c6ff&height=1&section=header&reversal=false&render=false" width="60%" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" height="28" /> &nbsp; Beyond the Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chess-000?style=flat-square&logo=chess&logoColor=white" />
+  <img src="https://img.shields.io/badge/Books-8B4513?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square&logo=lockheedmartin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astronomy-6B7280?style=flat-square&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hiking-22C55E?style=flat-square&logo=alltrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cycling-000?style=flat-square&logo=strava&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soccer-22C55E?style=flat-square&logo=soccer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meditation-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Table_Tennis-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Teaching_Mentoring-1a73e8?style=flat-square" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a73e8&height=40&section=header&text=✨&fontSize=30&reversal=false" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <b>💬 Let's connect and build something amazing together!</b>
+  <b>Let's connect and build something amazing</b>
   <br/><br/>
-  <a href="https://deol-satish.github.io" title="Portfolio"><img src="https://cdn.simpleicons.org/globe/1a73e8" width="24" height="24" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/deol-satish"><img src="https://img.shields.io/badge/LinkedIn-Deol_Satish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/deol-satish" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" /></a>
+  <a href="mailto:deol.satish@outlook.com"><img src="https://img.shields.io/badge/Email-deol.satish@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:deol.satish@outlook.com" title="Email"><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="24" height="24" alt="Email" /></a>
+  <a href="https://github.com/deol-satish"><img src="https://img.shields.io/badge/GitHub-deol--satish-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/deol-satish" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="24" height="24" alt="Resume" /></a>
+  <a href="https://deol-satish.github.io"><img src="https://img.shields.io/badge/Portfolio-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/deol-satish">deol-satish</a> — feel free to star repos you find useful!</i>
+  <sub>From <a href="https://github.com/deol-satish">deol-satish</a> — feel free to star repos you find useful</sub>
 </p>
