@@ -1,370 +1,182 @@
-Below is a **fully upgraded “Elite Engineer GitHub Profile README”** tailored to what you asked:
-
-Focuses on:
-
-* **Software Engineer**
-* **ERP / Enterprise Platforms**
-* **Full-Stack Development**
-* **Azure Cloud / AKS**
-* **AI + LLMs in production**
-* **Cybersecurity interest**
-* **Research background**
-
-It also includes:
-
-✅ Modern **AI Engineer banner**
-✅ **Research paper cards**
-✅ **Contribution snake animation**
-✅ **GitHub analytics**
-✅ **Enterprise tech focus**
-
-You can paste this into your **GitHub profile README.md**.
-
----
-
-# 🧠 Satish Deol
-
-### Software Engineer • Cloud Developer • AI Systems Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=220&section=header&text=Deol%20Satish&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20%7C%20Cybersecurity&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Satish%20Deol&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ERP%20Systems%20•%20Azure%20Cloud%20•%20AI%20Engineering&descAlignY=55&descAlign=50"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+software+solutions+%F0%9F%9A%80;Published+researcher+with+Comcast+%26+Amazon+%F0%9F%93%9A;From+kernel+code+to+cloud+deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://deol-satish.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-deol--satish.github.io-0d1117?style=for-the-badge&labelColor=1a73e8" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/deol-satish"><img src="https://img.shields.io/badge/LinkedIn-Deol_Satish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:deol.satish@outlook.com"><img src="https://img.shields.io/badge/Email-deol.satish@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://docs.google.com/document/d/1uEx1EoojyLFEslbwZQtfAenkJtRI_IXk-XZwYWRhyCk/edit?usp=sharing"><img src="https://img.shields.io/badge/📄_Resume-View-34A853?style=for-the-badge" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deol-satish&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-# 👋 About Me
+## 🧑‍💻 About Me
 
-I am a **Software Engineer focused on enterprise platforms, cloud systems, and AI-driven applications**.
+```yaml
+name: Deol Satish
+location: Sydney, NSW, Australia 🇦🇺
+role: Software Developer @ ITMagnet
+education: BE (Honours) Software Engineering — Deakin University (First Class Honours)
+focus: AI/ML Development • Web Engineering • Cybersecurity
+fun_fact: I debug code and play chess — both require thinking 5 moves ahead ♟️
+```
 
-My work combines:
-
-* **Full-stack engineering**
-* **ERP systems development**
-* **Azure cloud infrastructure**
-* **LLM-powered automation**
-* **AI-assisted production workflows**
-
-I currently work on **enterprise systems and ERP platforms**, building scalable applications that integrate **AI, cloud services, and distributed architectures**.
-
-My technical focus includes:
-
-⚙️ Enterprise software engineering
-☁️ Azure cloud systems (AKS, distributed services)
-🤖 LLM and AI integration in production workflows
-🔐 Cybersecurity and secure systems engineering
-
-My background also includes **research in machine learning, networking optimisation, and distributed systems**, with publications in networking and AI research. 
+> *Versatile Software Engineer with a strong foundation in AI/ML, full-stack web development, and cybersecurity. Published researcher with **Comcast** and **Amazon**, demonstrating innovation in optimising network performance using advanced algorithms and machine learning.*
 
 ---
 
-# 🚀 What I Work On
+## ⚡ Tech Stack
 
-### Enterprise Software Development
+<details open>
+<summary><b>🗣️ Languages</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+</details>
 
-* ERP platform engineering
-* Backend architecture for operational platforms
-* Scalable API development
-* Cloud-native enterprise systems
+<details open>
+<summary><b>🤖 AI / ML & Data</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
+</details>
 
-### Cloud Engineering
+<details open>
+<summary><b>🌐 Web & Frameworks</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+</details>
 
-* Azure cloud architecture
-* AKS / Kubernetes deployments
-* Microservices and distributed systems
-* Infrastructure integrations
-
-### AI & LLM Systems
-
-* LLM-powered validation engines
-* AI workflow automation
-* NLP systems in production applications
-* AI-assisted decision support tools
-
-### Cybersecurity (Side Interest)
-
-* vulnerability analysis
-* system hardening
-* secure infrastructure design
-* network security
-
----
-
-# 🛠 Tech Stack
-
-## Programming
-
-```
-C | C# | Python | Java | JavaScript | TypeScript | Bash
-```
-
----
-
-## Cloud & Infrastructure
-
-```
-Azure
-Azure Kubernetes Service (AKS)
-Docker
-Microservices
-Cloud APIs
-Distributed Systems
-```
-
----
-
-## Backend Development
-
-```
-.NET
-Node.js (Express)
-Spring Boot
-REST APIs
-Enterprise API Integration
-```
+<details open>
+<summary><b>🛡️ Security & Infrastructure</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+</details>
 
 ---
 
-## Frontend Development
+## 📊 GitHub Analytics
 
-```
-Angular
-React
-HTML / CSS
-```
+<p align="center">
+  <a href="https://github.com/deol-satish">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=00c6ff&text_color=c9d1d9&ring_color=1a73e8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deol-satish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&langs_count=8" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/deol-satish">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deol-satish&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e" />
+  </a>
+</p>
 
-## AI / Machine Learning
-
-```
-Large Language Models
-PyTorch
-TensorFlow
-Scikit-Learn
-HuggingFace
-OpenCV
-Reinforcement Learning
-```
-
----
-
-## Systems Engineering
-
-```
-Linux
-Kernel Programming
-TCP/IP Networking
-Performance Optimisation
-Security Hardening
-```
+<p align="center">
+  <a href="https://github.com/deol-satish">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deol-satish&bg_color=0d1117&color=1a73e8&line=00c6ff&point=ffffff&area=true&area_color=1a73e8&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-# 💼 Professional Work
+## 🏢 Experience
 
-## Software Developer — IT Magnet
-
-Working on **enterprise ERP platforms and cloud systems**.
-
-### Enterprise ERP Development
-
-Developing features and infrastructure for large **enterprise resource planning systems** used for operational workflows and business platforms.
-
-Key work:
-
-* Backend system development
-* enterprise workflow automation
-* API integrations between enterprise systems
-* cloud infrastructure integration
-
-Technologies used
-
-```
-.NET
-Angular
-Azure Services
-REST APIs
-Enterprise Databases
-```
+| Period | Role | Organisation |
+|--------|------|-------------|
+| 🔵 Apr 2025 – Present | **Software Developer** | ITMagnet, Sydney |
+| 🟢 Apr 2025 – Oct 2025 | **Associate Research Fellow** | Deakin University, Melbourne |
+| 🟡 May 2024 – Apr 2025 | **Research Assistant** | Deakin University, Melbourne |
+| 🔴 Oct 2023 – Jan 2024 | **Cybersecurity Engineer** | Larsen & Toubro Technology Services, Pune |
+| 🟣 Jun 2023 – Oct 2023 | **Research Assistant** | Deakin University, Melbourne |
 
 ---
 
-### AI-Powered Enterprise Automation
+## 📚 Publications
 
-Built and integrated **AI-driven automation systems** using LLMs.
+<p align="center">
+  <i>Published research with industry leaders driving real-world impact</i>
+</p>
 
-Key capabilities:
+🔬 Research collaborations with **Comcast** and **Amazon** on optimising network performance using advanced algorithms and machine learning.
 
-* automated validation workflows
-* AI-assisted operational decision systems
-* natural language processing pipelines
-
-Technologies
-
-```
-LLMs
-Prompt Engineering
-Python
-Backend services
-```
+> Check out my publications on my [portfolio website](https://deol-satish.github.io) 📖
 
 ---
 
-### Cloud Platforms & Infrastructure
+## 🎓 Education
 
-Developing and maintaining **cloud-based enterprise platforms**.
+🏛️ **Bachelor of Engineering (Honours) — Software Engineering**  
+📍 Deakin University, Melbourne (2019 – 2023)  
+🏅 **First Class Honours**
 
-Technologies
-
-```
-Azure
-AKS
-Cloud APIs
-Distributed systems
-```
+**Key Coursework:** Advanced Algorithms • Machine Learning • Secure Coding • Computer Networks • Data Science • Full-Stack Development • Cloud Applications • Mobile Development • Database Fundamentals
 
 ---
 
-### IoT & Telemetry Systems
-
-Evaluated IoT devices used in **large mining asset tracking deployments**.
-
-Focus areas
-
-* telemetry accuracy
-* GPS reliability
-* API integration
-* device performance benchmarking
-
----
-
-# 🔬 Research Work
-
-My research work focused on **machine learning for networking systems** and **distributed infrastructure optimisation**.
-
-### Networking Optimisation with Reinforcement Learning
-
-Developed machine learning algorithms to improve network congestion control and performance.
-
-Technologies
-
-```
-FreeBSD Kernel
-C
-Reinforcement Learning
-Networking Algorithms
-```
-
-Results
-
-* sub-5ms latency at 99th percentile
-* ML-driven congestion prediction
-
----
-
-### AI-Driven Spectrum Allocation
-
-Research on **dynamic spectrum allocation for satellite networks** using reinforcement learning.
-
-Technologies
-
-```
-DQN
-A2C
-Machine Learning
-Signal Processing
-```
-
----
-
-# 📚 Publications
+## 🎯 Beyond the Code
 
 <p align="center">
 
-<a href="https://doi.org/10.3390/fi16080265">
-<img src="https://img.shields.io/badge/Research-L4S%20AQM%20with%20A3C-blue?style=for-the-badge"/>
-</a>
+♟️ Chess &nbsp;|&nbsp; 📖 Books &nbsp;|&nbsp; 🧩 LeetCode &nbsp;|&nbsp; 🔐 Cybersecurity &nbsp;|&nbsp; 🔭 Astronomy &nbsp;|&nbsp; 📐 Math & Physics
 
-<a href="https://doi.org/10.3390/fi16020037">
-<img src="https://img.shields.io/badge/Research-DDPG%20Multipath%20Congestion%20Control-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://doi.org/10.1109/jsen.2023.3320131">
-<img src="https://img.shields.io/badge/Research-RF%20Sensing%20Knowledge%20Distillation-blue?style=for-the-badge"/>
-</a>
+🥾 Hiking &nbsp;|&nbsp; 🚴 Cycling &nbsp;|&nbsp; ⚽ Soccer &nbsp;|&nbsp; 🧘 Meditation &nbsp;|&nbsp; 🏓 Table Tennis &nbsp;|&nbsp; 🎓 Teaching & Mentoring
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deol-satish&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deol-satish&layout=compact&theme=tokyonight"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c6ff&height=120&section=footer" width="100%" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-Add this animation by creating a GitHub action (I can show you if you want).
-
-```
-github-snake.svg
-```
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <b>💬 Let's connect and build something amazing together!</b>
+  <br/><br/>
+  <a href="https://linkedin.com/in/deol-satish"><img src="https://img.shields.io/badge/-Deol_Satish-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deol.satish@outlook.com"><img src="https://img.shields.io/badge/-deol.satish@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/deol-satish"><img src="https://img.shields.io/badge/-deol--satish-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://deol-satish.github.io"><img src="https://img.shields.io/badge/-Portfolio-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
-
-# 🧩 Interests
-
-* AI Systems
-* Cloud Infrastructure
-* Distributed Systems
-* Cybersecurity
-* Networking Research
-* Scientific Computing
-
-Outside tech:
-
-🚴 Cycling
-🥾 Hiking
-♟ Chess
-⚽ Soccer
-🏓 Table Tennis
-
----
-
-# 📫 Connect With Me
-
-GitHub
-[https://github.com/deol-satish](https://github.com/deol-satish)
-
-LinkedIn
-[https://linkedin.com/in/deol-satish](https://linkedin.com/in/deol-satish)
-
-Email
-[deol.satish@outlook.com](mailto:deol.satish@outlook.com)
-
----
-
-⭐ *I enjoy building systems where AI meets real-world enterprise infrastructure.*
-
----
-
-## If you'd like, I can also upgrade your profile even further with:
-
-* **AI-engineer animated profile header**
-* **Pinned project architecture diagrams**
-* **Azure cloud architecture showcase**
-* **LLM project portfolio section**
-* **Cybersecurity lab / CTF showcase**
-
-These are the kinds of profiles used by **top engineers at Microsoft / NVIDIA / OpenAI** and make recruiters notice immediately.
+<p align="center">
+  <i>⭐ From <a href="https://github.com/deol-satish">deol-satish</a> — feel free to star repos you find useful!</i>
+</p>
